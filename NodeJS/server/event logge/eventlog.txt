@@ -1,0 +1,43 @@
+2025-06-25T08:02:25.699Z-Application Started
+}2025-06-25T08:02:25.706Z-Application Event Occured
+}2025-06-25T08:02:28.700Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:31.702Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:34.703Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:37.705Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:40.706Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:43.705Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:46.706Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:49.707Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:52.709Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:55.712Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:02:58.713Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:03:01.715Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+}2025-06-25T08:03:41.454Z-Application Started
+2025-06-25T08:03:41.460Z-Application Event Occured
+2025-06-25T08:03:44.455Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:03:47.456Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:03:50.458Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:03:53.458Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:03:56.459Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:03:59.460Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:02.461Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:05.462Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:08.653Z-Application Started
+2025-06-25T08:04:08.654Z-Application Event Occured
+2025-06-25T08:04:11.654Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:14.655Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:17.655Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:20.656Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:23.658Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:26.659Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:29.660Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:32.661Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:35.663Z-Current Memory Usage : $ {memoryUsage.toFixed(2)}
+2025-06-25T08:04:57.566Z-Application Started
+2025-06-25T08:04:57.577Z-Application Event Occured
+2025-06-25T08:05:00.568Z-Current Memory Usage : 1.06
+2025-06-25T08:05:03.570Z-Current Memory Usage : 0.91
+2025-06-25T08:05:06.571Z-Current Memory Usage : 0.82
+2025-06-25T08:05:09.572Z-Current Memory Usage : 0.90
+2025-06-25T08:05:12.573Z-Current Memory Usage : 0.85
+2025-06-25T08:05:15.574Z-Current Memory Usage : 0.94

@@ -1,0 +1,110 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Selectors</title>
+    <style>
+        /* 
+        1. Universal selectors */
+        *{
+            margin: 0;
+        }
+
+        /* 2. type selectors */
+
+        h1,h2{
+            background-color: red;
+            font-size: 16px;
+            margin: 16px 20px 10px 20px;
+            padding: 1px 2px 3px 4px;
+            margin-bottom: 10px;
+
+        }
+        /* 3. Class Selectors */
+
+        #id{
+            background-color: blue;
+        }
+        /* 4. ID Selectors */
+            #header{
+                background-color: #fff;
+            }
+
+        /* 5. Attribute Selectors */
+        input[type="text"]{
+            border: 1px solid red;
+        }
+        /* 6. Descendant Selector */
+        article p {
+            font-style: italic;
+            background-color: rgb(225, 204, 204);
+            padding: 10px;
+
+        }
+
+        /* 7. Child Selector */
+
+        div > p{
+            background-color: orange;
+            text-decoration: none;
+        }
+
+        /* 8. Adjacent sibling selector  */
+
+        /* 9. General Sibling Selector  */
+
+        
+
+        /* 10. Pseudo class Selector  */
+        a:hover {
+            background-color: blue;
+            text-decoration: none;
+            color: red;
+            padding: 5px;
+            margin: 4px;
+        }
+
+        /* 11. Pseudo Element selector */
+
+        p::first-letter{
+            font-weight: bold;
+            font-size: 30px;
+        }
+
+        /* 12. Grouping Selector  */
+        
+
+
+    </style>
+
+</head>
+<body>
+    <h1>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Aliquam consectetur doloribus quos qui, at ad neque quidem magni sunt aspernatur?</h1>
+
+    <h2>Lorem ipsum dolor sit amet consectetur adipisicing elit. Doloremque, nam? Esse eius odit debitis alias quia soluta aperiam voluptates sint, voluptatibus porro nam, veritatis dignissimos corrupti omnis obcaecati aut necessitatibus.</h2>
+
+    <div class="id">
+        <h1>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ratione tempora facilis maxime enim suscipit? Quia.</h1>
+    </div>
+
+    <article>
+        <p>
+            This paragraph is inside an article , showing the descendant selector.
+        </p>
+
+        <div>
+            <p>
+                Lorem ipsum dolor sit amet consectetur adipisicing elit. Praesentium ipsa molestias porro tenetur fugit modi ipsum provident quasi iure magnam?
+            </p>
+
+        </div>
+    </article>
+
+    <a>
+        Paresh Lorem ipsum dolor sit amet consectetur, adipisicing elit. Ab repudiandae, necessitatibus, illum tempore, culpa optio blanditiis eos eum fugit ipsa provident iure quos veritatis dolore!
+    </a>
+
+    <p> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ad, ratione ipsa! Doloremque, voluptatem facilis? Ex sint aspernatur facere molestias, dignissimos eius atque quos tenetur quia.</p>
+</body>
+</html>
