@@ -429,13 +429,13 @@ const getWatchHistory= asyncHandler(async(req,res)=>{
               localField:"watchHistory",
               foreignField:"_id",
               as:"owner",
-              pipeline:[
+              pipeline:{
                 $project:{
                   fullname:1,
                   username:1,
                   avatar:1
                 }
-              ]
+            }
             }
           },{
           $addFields:{
@@ -464,6 +464,8 @@ export {
   getCurrentUser,
   updateAccoutDetails,
   updateUserAvatar,
-  updateUserCoverImage
+  updateUserCoverImage,
+  getUserChannelProfile,
+  getWatchHistory
 
 };
